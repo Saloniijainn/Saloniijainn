@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Saloni%20Jain&fontSize=40&fontAlignY=40&desc=Full-Stack%20Learner%20%7C%20DevOps%20%26%20ML%20Enthusiast&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Saloni%20Jain&fontSize=40&fontAlignY=40&desc=Full-Stack%20Learner%20%7C%20DevOps%20&amp;%20ML%20Enthusiast&descAlignY=60&descAlign=50)
 
 ### 🙋‍♀️ About Me
 
@@ -11,7 +11,7 @@ I believe in learning consistently, improving daily, and delivering with discipl
 ### 🚀 What I'm Doing Now
 - 🌱 Learning: MERN Stack, Docker, GitHub Actions, Python for ML
 - 💡 Improving my DSA skills in Java and C
-- 🛠 Building foundational projects
+- 🛠 Building foundational projects (coming soon!)
 
 ---
 
@@ -34,7 +34,7 @@ I believe in learning consistently, improving daily, and delivering with discipl
 
 | 🔥 Stats | 🧠 Streak |
 |---------|---------|
-| ![Saloni’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloniijainn&show_icons=true&theme=github_dark&hide=prs) | ![GitHub Streak](https://streak-stats.demolab.com?user=Saloniijainn&theme=github-dark-blue&hide_border=true) |
+| ![Saloni’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloniijainn&amp;show_icons=true&amp;theme=github_dark&amp;hide=prs) | ![GitHub Streak](https://streak-stats.demolab.com?user=Saloniijainn&amp;theme=github-dark-blue&amp;hide_border=true) |
 
 ---
 
