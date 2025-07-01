@@ -11,7 +11,7 @@ I believe in learning consistently, improving daily, and delivering with discipl
 ### 🚀 What I'm Doing Now
 - 🌱 Learning: MERN Stack, Docker, GitHub Actions, Python for ML
 - 💡 Improving my DSA skills in Java and C
-- 🛠 Building foundational projects (coming soon!)
+- 🛠 Building foundational projects
 
 ---
 
