@@ -58,20 +58,6 @@ From backend APIs to frontend dashboards and cloud deployment — I enjoy buildi
 
 ---
 
-### 📊 GitHub Stats
-
-| 🔥 Stats | 🧠 Streak |
-|---------|---------|
-| ![Saloni’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloniijainn&show_icons=true&theme=github_dark&hide=prs) | ![GitHub Streak](https://streak-stats.demolab.com?user=Saloniijainn&theme=github-dark-blue&hide_border=true) |
-
----
-
-### 🧩 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saloniijainn&bg_color=0d1117&color=00ffe0&line=00ffea&point=ffffff&area=true&hide_border=true)
-
----
-
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saloni-p-jain-36977725b)](https://linkedin.com/in/saloni-p-jain-36977725b)  
