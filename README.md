@@ -3,7 +3,7 @@
 ### 🙋‍♀️ About Me
 
 I'm **Saloni Jain**, a curious and determined tech enthusiast on a journey to become a **Full-Stack Developer**.  
-I'm passionate about **DevOps**, **Machine Learning**, and building meaningful things with code.  
+I'm passionate about **Data Science**, **Machine Learning**, and building meaningful things with code.  
 I believe in learning consistently, improving daily, and delivering with discipline.
 
 ---
