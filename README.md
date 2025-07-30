@@ -1,32 +1,60 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Saloni%20Jain&fontSize=40&fontAlignY=40&desc=Full-Stack%20Learner%20%7C%20DataScience%20&amp;%20ML%20Enthusiast&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Saloni%20Jain&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20in%20training%20%7C%20Data%20&%20AI%20Enthusiast&descAlignY=60&descAlign=50)
 
 ### 🙋‍♀️ About Me
 
-I'm **Saloni Jain**, a curious and determined tech enthusiast on a journey to become a **Full-Stack Developer**.  
-I'm passionate about **Data Science**, **Machine Learning**, and building meaningful things with code.  
-I believe in learning consistently, improving daily, and delivering with discipline.
+I'm **Saloni Jain**, a curious and determined tech enthusiast working towards becoming a **Full-Stack Developer**.  
+I’m passionate about **data-driven applications**, **ML-powered workflows**, and **solving real-world problems with clean code**.  
+From backend APIs to frontend dashboards and cloud deployment — I enjoy building things end to end.
 
 ---
 
 ### 🚀 What I'm Doing Now
-- 🌱 Learning: MERN Stack, Docker, GitHub Actions, Python for ML
-- 💡 Improving my DSA skills in Java and C
-- 🛠 Building foundational projects (coming soon!)
+- 🧠 Strengthening React, Tailwind, PostgreSQL, FastAPI & Docker skills
+- 🔁 Practicing GitHub workflows (CI/CD, branches, PRs)
+- ✍️ Delivering Knowledge Transfer (KT) sessions to interns on RAG, React & API design
+- 📈 Exploring how AI integrates into SaaS products
 
 ---
 
-### 🧰 Tech Stack
+### 💼 Internship Experience
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Full Stack Intern @ Synabl Technologies (2025)**  
+- Built a production-ready React + Flask AI chatbot for a healthtech client  
+- Integrated RAG pipeline, semantic search, OpenAI APIs, PostgreSQL logging  
+- Conducted KT sessions on frontend development, FAISS, and backend API design  
+- Helped develop a clinical transcription prototype using speech-to-text + NLP
+
+---
+
+### 🧩 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-A100FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI-blueviolet?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=for-the-badge)
+
+---
+
+### 🌟 Projects
+
+#### 🔧 ZERO – Academic Assignment & Question Bank Platform  
+- Full-stack Django project with modular apps for academic content  
+- Supports user auth, file uploads, and future ASGI/WSGI deployment  
+- PostgreSQL backend and structured media routing
+
+#### 🤖 AI-Powered Chatbot for Corporate HealthTech  
+- RAG architecture using FAISS, GPT APIs, and context-aware fallback logic  
+- Flask + React frontend with custom feedback mechanism & logging  
+- Used by interns and presented via KT sessions
 
 ---
 
@@ -34,24 +62,13 @@ I believe in learning consistently, improving daily, and delivering with discipl
 
 | 🔥 Stats | 🧠 Streak |
 |---------|---------|
-| ![Saloni’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloniijainn&amp;show_icons=true&amp;theme=github_dark&amp;hide=prs) | ![GitHub Streak](https://streak-stats.demolab.com?user=Saloniijainn&amp;theme=github-dark-blue&amp;hide_border=true) |
+| ![Saloni’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloniijainn&show_icons=true&theme=github_dark&hide=prs) | ![GitHub Streak](https://streak-stats.demolab.com?user=Saloniijainn&theme=github-dark-blue&hide_border=true) |
 
 ---
 
 ### 🧩 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saloniijainn&bg_color=0d1117&color=00ffe0&line=00ffea&point=ffffff&area=true&hide_border=true)
-
----
-
-### 🌟 Projects (Coming Soon)
-
-I'm currently working on:
-- A full-stack portfolio website 💼
-- A basic machine learning model for predictions 🤖
-- Some fun JavaScript mini projects 💡
-
-Stay tuned — exciting things ahead!
 
 ---
 
