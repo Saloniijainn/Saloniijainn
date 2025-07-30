@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Saloni%20Jain&fontSize=40&fontAlignY=40&desc=Full-Stack%20Learner%20%7C%20DevOps%20&amp;%20ML%20Enthusiast&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Saloni%20Jain&fontSize=40&fontAlignY=40&desc=Full-Stack%20Learner%20%7C%20DataScience%20&amp;%20ML%20Enthusiast&descAlignY=60&descAlign=50)
 
 ### 🙋‍♀️ About Me
 
